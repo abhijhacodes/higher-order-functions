@@ -1,7 +1,7 @@
 # higher-order-functions
 
 This repository contains some higher order functions implemented in c++ template form that you can use in your competitive programming templates.
-<br>If you want to contribute any function to this repo, feel free to fork.
+<br><br>If you want to contribute any function to this repo, feel free to fork.
 
 <br>light-hearted meme:
 
